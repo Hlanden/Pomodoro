@@ -1,5 +1,5 @@
 # Pomodoro
-A really simple Pomodoro counter with the following scheme:
+A really simple (but effective) Pomodoro counter with the following scheme:
 - Work 25 minutes
 - Pause 5 minutes
 - Work 25 minutes
