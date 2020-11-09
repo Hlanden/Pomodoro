@@ -12,8 +12,8 @@ class Application(tk.Frame):
         #self.master.bind('<Control-k>', lambda x: self.generate_plots())
         self.master.bind('<Return>', lambda x: self.start_countdown())
         self.master.attributes('-topmost', True)
-        self.minutes = 0
-        self.seconds = 1
+        self.minutes = 25
+        self.seconds = 0
         self.countThread = None
         self.isPause = True
         self.isRunning = True
