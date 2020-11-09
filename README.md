@@ -11,3 +11,5 @@ Simple Pomodoro counter with the following scheme:
 - Clone the repository 
 - Run App.py
 - Press <Return> when you are ready to start
+
+The application will always be on top of other programs, so you always have control of the timer.
