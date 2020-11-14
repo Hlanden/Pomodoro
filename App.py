@@ -57,7 +57,7 @@ class Application(tk.Frame):
 
     def pause(self):
         self.labelTimerStatus.configure(foreground="green")
-        if self.pauseCounter != 2:
+        if self.pauseCounter != 3:
             self.minutes = 5
             self.seconds = 0
         else:
